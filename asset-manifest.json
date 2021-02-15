@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/demotodo/static/css/main.f25ce9a3.chunk.css",
+    "main.js": "/demotodo/static/js/main.97ce7f98.chunk.js",
+    "main.js.map": "/demotodo/static/js/main.97ce7f98.chunk.js.map",
+    "runtime-main.js": "/demotodo/static/js/runtime-main.75d54f54.js",
+    "runtime-main.js.map": "/demotodo/static/js/runtime-main.75d54f54.js.map",
+    "static/js/2.33122b44.chunk.js": "/demotodo/static/js/2.33122b44.chunk.js",
+    "static/js/2.33122b44.chunk.js.map": "/demotodo/static/js/2.33122b44.chunk.js.map",
+    "index.html": "/demotodo/index.html",
+    "static/css/main.f25ce9a3.chunk.css.map": "/demotodo/static/css/main.f25ce9a3.chunk.css.map",
+    "static/js/2.33122b44.chunk.js.LICENSE.txt": "/demotodo/static/js/2.33122b44.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75d54f54.js",
+    "static/js/2.33122b44.chunk.js",
+    "static/css/main.f25ce9a3.chunk.css",
+    "static/js/main.97ce7f98.chunk.js"
+  ]
+}
